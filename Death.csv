@@ -1,0 +1,8 @@
+city,lat,lng,country,iso2,admin_name,capital,population,Values,Date,Condition
+Saarbr??cken,49.2343,7.12,Germany,DE,Saarland,admin,179634,1,43508,death
+Stuttgart,48.9775,9.1843,Germany,DE,Baden-W??rttemberg,admin,2787724,2,43499,death
+Herne,51.455,7.21367,Germany,DE,North Rhine-Westphalia,minor,156621,1,43814,death
+G??ttingen,51.56339,9.97356,Germany,DE,Lower Saxony,minor,119801,1,43535,death
+Eppelheim,49.434,8.6333,Germany,DE,Baden-W??rttemberg,minor,15359,2,43530,death
+Asperg,48.912,9.1333,Germany,DE,Baden-W??rttemberg,minor,13486,1,43497,death
+Offenbach,50.1706,8.7965,Germany,DE,Hesse,minor,11894,1,43787,death
