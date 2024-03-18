@@ -1,0 +1,150 @@
+city,lat,lng,country,iso2,admin_name,capital,population,Values,Date
+Berlin,52.52000000000,13.40500000000,Germany,DE,Berlin,primary,4473101,2,2-Oct-19
+Stuttgart,48.77750000000,9.18000000000,Germany,DE,Baden-W??rttemberg,admin,2787724,2,3-Feb-19
+Munich,48.13750000000,11.57500000000,Germany,DE,Bavaria,admin,2606021,7,3-Nov-19
+Hamburg,53.55000000000,10.00000000000,Germany,DE,Hamburg,admin,2484800,1,4-Mar-19
+Cologne,50.93640000000,6.95280000000,Germany,DE,North Rhine-Westphalia,admin,1083498,7,3-Dec-19
+Frankfurt,50.11060000000,8.68220000000,Germany,DE,Hesse,minor,764104,1,9-Jan-19
+D??sseldorf,51.23330000000,6.78330000000,Germany,DE,North Rhine-Westphalia,admin,645923,1,7-Oct-19
+Leipzig,51.34000000000,12.37500000000,Germany,DE,Saxony,minor,615081,6,8-Feb-19
+Dortmund,51.51670000000,7.46670000000,Germany,DE,North Rhine-Westphalia,minor,587696,8,8-Nov-19
+Essen,51.45080000000,7.01310000000,Germany,DE,North Rhine-Westphalia,minor,582415,19,7-Mar-19
+Bremen,53.08330000000,8.80000000000,Germany,DE,Bremen,admin,566573,1,8-Dec-19
+Dresden,51.05000000000,13.74000000000,Germany,DE,Saxony,admin,561922,3,14-Jan-19
+Hannover,52.36670000000,9.71670000000,Germany,DE,Lower Saxony,admin,542668,20,13-Oct-19
+Nuremberg,49.45390000000,11.07750000000,Germany,DE,Bavaria,minor,515543,1,13-Feb-19
+Duisburg,51.43470000000,6.76250000000,Germany,DE,North Rhine-Westphalia,minor,495885,7,14-Nov-19
+Bochum,51.48190000000,7.21580000000,Germany,DE,North Rhine-Westphalia,minor,364454,5,12-Mar-19
+Wuppertal,51.26670000000,7.18330000000,Germany,DE,North Rhine-Westphalia,minor,355004,1,13-Dec-19
+Bielefeld,52.02110000000,8.53470000000,Germany,DE,North Rhine-Westphalia,minor,334002,1,20-Jan-19
+Bonn,50.73330000000,7.10000000000,Germany,DE,North Rhine-Westphalia,minor,331885,3,18-Oct-19
+M??nster,51.96250000000,7.62560000000,Germany,DE,North Rhine-Westphalia,minor,317713,6,19-Feb-19
+Mannheim,49.48780000000,8.46610000000,Germany,DE,Baden-W??rttemberg,minor,311831,1,19-Nov-19
+Karlsruhe,49.00920000000,8.40400000000,Germany,DE,Baden-W??rttemberg,minor,308436,4,18-Mar-19
+Augsburg,48.36890000000,10.89780000000,Germany,DE,Bavaria,minor,296478,1,19-Dec-19
+Wiesbaden,50.08250000000,8.24000000000,Germany,DE,Hesse,admin,278950,1,25-Jan-19
+M??nchengladbach,51.20000000000,6.43330000000,Germany,DE,North Rhine-Westphalia,minor,261001,4,23-Oct-19
+Gelsenkirchen,51.51670000000,7.10000000000,Germany,DE,North Rhine-Westphalia,minor,260126,7,24-Feb-19
+Aachen,50.77560000000,6.08360000000,Germany,DE,North Rhine-Westphalia,minor,249070,1,25-Nov-19
+Braunschweig,52.26670000000,10.51670000000,Germany,DE,Lower Saxony,minor,248823,6,23-Mar-19
+Chemnitz,50.83330000000,12.91670000000,Germany,DE,Saxony,minor,248042,8,24-Dec-19
+Kiel,54.32330000000,10.13940000000,Germany,DE,Schleswig-Holstein,admin,246601,3,1-Oct-19
+Halle,51.48280000000,11.96970000000,Germany,DE,Saxony-Anhalt,minor,238061,2,2-Feb-19
+Magdeburg,52.13170000000,11.63920000000,Germany,DE,Saxony-Anhalt,admin,236188,7,2-Nov-19
+Freiburg im Breisgau,47.99500000000,7.85000000000,Germany,DE,Baden-W??rttemberg,minor,231848,6,3-Jan-19
+Krefeld,51.33330000000,6.56670000000,Germany,DE,North Rhine-Westphalia,minor,227050,4,2-Mar-19
+Mainz,49.98330000000,8.26670000000,Germany,DE,Rhineland-Palatinate,admin,217556,2,2-Dec-19
+L??beck,53.86970000000,10.68640000000,Germany,DE,Schleswig-Holstein,minor,216277,7,6-Oct-19
+Erfurt,50.98330000000,11.03330000000,Germany,DE,Thuringia,admin,213835,5,7-Feb-19
+Oberhausen,51.49670000000,6.87060000000,Germany,DE,North Rhine-Westphalia,minor,209566,1,7-Nov-19
+Rostock,54.08330000000,12.13330000000,Germany,DE,Mecklenburg-Western Pomerania,minor,209061,4,8-Jan-19
+Kassel,51.31580000000,9.49790000000,Germany,DE,Hesse,minor,201048,7,9-Mar-19
+Hagen,51.36670000000,7.48330000000,Germany,DE,North Rhine-Westphalia,minor,188713,1,7-Dec-19
+Potsdam,52.40000000000,13.06670000000,Germany,DE,Brandenburg,admin,183154,1,11-Oct-19
+Saarbr??cken,49.23330000000,7.00000000000,Germany,DE,Saarland,admin,179634,3,12-Feb-19
+Hamm,51.68330000000,7.81670000000,Germany,DE,North Rhine-Westphalia,minor,179238,6,13-Nov-19
+Ludwigshafen,49.48110000000,8.43530000000,Germany,DE,Rhineland-Palatinate,minor,172557,3,13-Jan-19
+M??lheim,51.42750000000,6.88250000000,Germany,DE,North Rhine-Westphalia,minor,170921,12,15-Mar-19
+Oldenburg,53.14390000000,8.21390000000,Germany,DE,Lower Saxony,minor,170389,1,9-Dec-19
+Osnabr??ck,52.28330000000,8.05000000000,Germany,DE,Lower Saxony,minor,165034,7,16-Oct-19
+Leverkusen,51.03330000000,6.98330000000,Germany,DE,North Rhine-Westphalia,minor,163851,1,17-Feb-19
+Darmstadt,49.87220000000,8.65280000000,Germany,DE,Hesse,minor,159631,4,18-Nov-19
+Solingen,51.16670000000,7.08330000000,Germany,DE,North Rhine-Westphalia,minor,159360,6,18-Jan-19
+Heidelberg,49.41670000000,8.71670000000,Germany,DE,Baden-W??rttemberg,minor,159245,8,20-Mar-19
+Herne,51.55000000000,7.21670000000,Germany,DE,North Rhine-Westphalia,minor,156621,1,15-Dec-19
+Neuss,51.20000000000,6.70000000000,Germany,DE,North Rhine-Westphalia,minor,153796,1,21-Oct-19
+Regensburg,49.01670000000,12.08330000000,Germany,DE,Bavaria,minor,153542,2,22-Feb-19
+Paderborn,51.71810000000,8.75420000000,Germany,DE,North Rhine-Westphalia,minor,152531,1,22-Nov-19
+Ingolstadt,48.76310000000,11.42500000000,Germany,DE,Bavaria,minor,138016,1,24-Jan-19
+F??rth,49.46670000000,11.00000000000,Germany,DE,Bavaria,minor,129122,3,26-Mar-19
+W??rzburg,49.78330000000,9.93330000000,Germany,DE,Bavaria,minor,127880,7,20-Dec-19
+Ulm,48.40000000000,9.98330000000,Germany,DE,Baden-W??rttemberg,minor,126949,1,4-Oct-19
+Heilbronn,49.15000000000,9.21670000000,Germany,DE,Baden-W??rttemberg,minor,126458,1,1-Feb-19
+Pforzheim,48.89500000000,8.70500000000,Germany,DE,Baden-W??rttemberg,minor,126016,6,1-Nov-19
+Wolfsburg,52.42310000000,10.78720000000,Germany,DE,Lower Saxony,minor,124151,2,14-Jan-19
+G??ttingen,51.53390000000,9.93560000000,Germany,DE,Lower Saxony,minor,119801,1,11-Mar-19
+Bottrop,51.52470000000,6.92280000000,Germany,DE,North Rhine-Westphalia,minor,117383,4,26-Dec-19
+Reutlingen,48.48330000000,9.21670000000,Germany,DE,Baden-W??rttemberg,minor,116456,3,9-Oct-19
+Koblenz,50.35970000000,7.59780000000,Germany,DE,Rhineland-Palatinate,minor,114024,2,6-Feb-19
+Bremerhaven,53.55000000000,8.58330000000,Germany,DE,Bremen,minor,113634,4,6-Nov-19
+Erlangen,49.58330000000,11.01670000000,Germany,DE,Bavaria,minor,113292,7,19-Jan-19
+Recklinghausen,51.58500000000,7.16190000000,Germany,DE,North Rhine-Westphalia,minor,112267,1,17-Mar-19
+Bergisch Gladbach,50.99180000000,7.13030000000,Germany,DE,North Rhine-Westphalia,minor,111966,5,15-Oct-19
+Remscheid,51.18330000000,7.20000000000,Germany,DE,North Rhine-Westphalia,minor,111770,8,17-Feb-19
+Jena,50.92720000000,11.58610000000,Germany,DE,Thuringia,minor,111407,2,11-Nov-19
+Trier,49.75670000000,6.64140000000,Germany,DE,Rhineland-Palatinate,minor,110636,1,8-Jan-19
+Salzgitter,52.15000000000,10.33330000000,Germany,DE,Lower Saxony,minor,104948,3,22-Mar-19
+Moers,51.45920000000,6.61970000000,Germany,DE,North Rhine-Westphalia,minor,103725,3,20-Oct-19
+Siegen,50.88330000000,8.01670000000,Germany,DE,North Rhine-Westphalia,minor,102836,4,6-Feb-19
+Hildesheim,52.15000000000,9.95000000000,Germany,DE,Lower Saxony,minor,101990,6,7-Nov-19
+G??tersloh,51.90000000000,8.38330000000,Germany,DE,North Rhine-Westphalia,minor,101158,4,24-Jan-19
+Kaiserslautern,49.44470000000,7.76890000000,Germany,DE,Rhineland-Palatinate,minor,100030,2,1-Mar-19
+Schwerin,53.63330000000,11.41670000000,Germany,DE,Mecklenburg-Western Pomerania,admin,95818,2,25-Oct-19
+Esslingen,48.73330000000,9.31670000000,Germany,DE,Baden-W??rttemberg,minor,93542,4,1-Feb-19
+Ludwigsburg,48.89750000000,9.19220000000,Germany,DE,Baden-W??rttemberg,minor,93499,3,6-Nov-19
+Gladbeck,51.56670000000,6.96670000000,Germany,DE,North Rhine-Westphalia,minor,75687,1,3-Jan-19
+Rosenheim,47.85000000000,12.13330000000,Germany,DE,Bavaria,minor,63508,1,6-Mar-19
+Herten,51.60000000000,7.13330000000,Germany,DE,North Rhine-Westphalia,minor,61910,4,3-Oct-19
+Hilden,51.17140000000,6.93940000000,Germany,DE,North Rhine-Westphalia,minor,55764,5,7-Feb-19
+Elmshorn,53.75190000000,9.65110000000,Germany,DE,Schleswig-Holstein,minor,50141,3,1-Nov-19
+Halle-Neustadt,51.47890000000,11.92140000000,Germany,DE,Saxony-Anhalt,minor,46280,1,8-Jan-19
+Pinneberg,53.63330000000,9.80000000000,Germany,DE,Schleswig-Holstein,minor,43603,7,11-Mar-19
+Siegburg,50.80140000000,7.20440000000,Germany,DE,North Rhine-Westphalia,minor,41660,1,8-Oct-19
+Germering,48.13330000000,11.36670000000,Germany,DE,Bavaria,minor,41387,9,12-Feb-19
+Ostfildern,48.73330000000,9.25000000000,Germany,DE,Baden-W??rttemberg,minor,39376,6,13-Nov-19
+Kornwestheim,48.85980000000,9.18520000000,Germany,DE,Baden-W??rttemberg,minor,33803,8,14-Jan-19
+Unterschlei?ƒheim,48.28330000000,11.56670000000,Germany,DE,Bavaria,minor,28907,9,16-Mar-19
+Hattersheim,50.07220000000,8.48640000000,Germany,DE,Hesse,minor,28040,1,14-Oct-19
+Unterhaching,48.06580000000,11.61000000000,Germany,DE,Bavaria,minor,25379,3,17-Feb-19
+Weingarten,47.80920000000,9.64440000000,Germany,DE,Baden-W??rttemberg,minor,25168,2,18-Nov-19
+Obertshausen,50.06670000000,8.83330000000,Germany,DE,Hesse,minor,24968,1,19-Jan-19
+Bad Soden am Taunus,50.13330000000,8.50000000000,Germany,DE,Hesse,minor,23036,3,21-Mar-19
+Haar,48.10000000000,11.73330000000,Germany,DE,Bavaria,minor,21797,8,19-Oct-19
+Eschborn,50.14360000000,8.57000000000,Germany,DE,Hesse,minor,21734,1,22-Feb-19
+Ottobrunn,48.06670000000,11.66670000000,Germany,DE,Bavaria,minor,21719,1,22-Nov-19
+Puchheim,48.15000000000,11.35000000000,Germany,DE,Bavaria,minor,21531,7,24-Jan-19
+Gr??benzell,48.20000000000,11.36670000000,Germany,DE,Bavaria,minor,19967,6,11-Mar-19
+Schenefeld,53.60280000000,9.82330000000,Germany,DE,Schleswig-Holstein,minor,19402,1,21-Oct-19
+Wolfratshausen,47.91330000000,11.42780000000,Germany,DE,Bavaria,minor,18984,4,6-Feb-19
+Glinde,53.54060000000,10.21110000000,Germany,DE,Schleswig-Holstein,minor,18443,5,7-Nov-19
+Eilendorf,50.77940000000,6.16250000000,Germany,DE,North Rhine-Westphalia,minor,15892,3,3-Jan-19
+Eppelheim,49.40000000000,8.63330000000,Germany,DE,Baden-W??rttemberg,minor,15359,4,6-Mar-19
+Neubiberg,48.08330000000,11.68330000000,Germany,DE,Bavaria,minor,14538,7,25-Oct-19
+Asperg,48.90000000000,9.13330000000,Germany,DE,Baden-W??rttemberg,minor,13486,1,1-Feb-19
+Wentorf bei Hamburg,53.49310000000,10.25330000000,Germany,DE,Schleswig-Holstein,minor,13366,3,6-Nov-19
+Kronshagen,54.33330000000,10.08330000000,Germany,DE,Schleswig-Holstein,minor,11921,8,8-Jan-19
+Eichenau,48.16670000000,11.31670000000,Germany,DE,Bavaria,minor,11894,4,11-Mar-19
+Steinbach am Taunus,50.16670000000,8.56670000000,Germany,DE,Hesse,minor,10682,1,8-Oct-19
+Wei?ƒenthurm,50.41440000000,7.46060000000,Germany,DE,Rhineland-Palatinate,minor,9171,2,12-Feb-19
+Neulu?ƒheim,49.29330000000,8.52190000000,Germany,DE,Baden-W??rttemberg,minor,7133,1,13-Nov-19
+Eichwalde,52.37300000000,13.62130000000,Germany,DE,Brandenburg,minor,6468,1,14-Jan-19
+Altbach,48.72390000000,9.37970000000,Germany,DE,Baden-W??rttemberg,minor,6378,4,16-Mar-19
+Merzhausen,47.96640000000,7.82860000000,Germany,DE,Baden-W??rttemberg,minor,5280,6,14-Oct-19
+Buckenhof,49.59140000000,11.05220000000,Germany,DE,Bavaria,minor,3105,7,17-Feb-19
+Offenbach,50.10060000000,8.76650000000,Germany,DE,Hesse,minor,11894,1,18-Nov-19
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
