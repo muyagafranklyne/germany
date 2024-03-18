@@ -37,7 +37,7 @@ Mainz,49.98330000000,8.26670000000,Germany,DE,Rhineland-Palatinate,admin,217556,
 L??beck,53.86970000000,10.68640000000,Germany,DE,Schleswig-Holstein,minor,216277,7,6-Oct-19
 Erfurt,50.98330000000,11.03330000000,Germany,DE,Thuringia,admin,213835,5,7-Feb-19
 Oberhausen,51.49670000000,6.87060000000,Germany,DE,North Rhine-Westphalia,minor,209566,1,7-Nov-19
-Rostock,54.08330000000,12.13330000000,Germany,DE,Mecklenburg-Western Pomerania,,209061,4,8-Jan-19
+Rostock,54.08330000000,12.13330000000,Germany,DE,Mecklenburg-Western Pomerania,minor,209061,4,8-Jan-19
 Kassel,51.31580000000,9.49790000000,Germany,DE,Hesse,minor,201048,7,9-Mar-19
 Hagen,51.36670000000,7.48330000000,Germany,DE,North Rhine-Westphalia,minor,188713,1,7-Dec-19
 Potsdam,52.40000000000,13.06670000000,Germany,DE,Brandenburg,admin,183154,1,11-Oct-19
@@ -66,7 +66,7 @@ G??ttingen,51.53390000000,9.93560000000,Germany,DE,Lower Saxony,minor,119801,1,1
 Bottrop,51.52470000000,6.92280000000,Germany,DE,North Rhine-Westphalia,minor,117383,4,26-Dec-19
 Reutlingen,48.48330000000,9.21670000000,Germany,DE,Baden-W??rttemberg,minor,116456,3,9-Oct-19
 Koblenz,50.35970000000,7.59780000000,Germany,DE,Rhineland-Palatinate,minor,114024,2,6-Feb-19
-Bremerhaven,53.55000000000,8.58330000000,Germany,DE,Bremen,,113634,4,6-Nov-19
+Bremerhaven,53.55000000000,8.58330000000,Germany,DE,Bremen,minor,113634,4,6-Nov-19
 Erlangen,49.58330000000,11.01670000000,Germany,DE,Bavaria,minor,113292,7,19-Jan-19
 Recklinghausen,51.58500000000,7.16190000000,Germany,DE,North Rhine-Westphalia,minor,112267,1,17-Mar-19
 Bergisch Gladbach,50.99180000000,7.13030000000,Germany,DE,North Rhine-Westphalia,minor,111966,5,15-Oct-19
@@ -74,7 +74,7 @@ Remscheid,51.18330000000,7.20000000000,Germany,DE,North Rhine-Westphalia,minor,1
 Jena,50.92720000000,11.58610000000,Germany,DE,Thuringia,minor,111407,2,11-Nov-19
 Trier,49.75670000000,6.64140000000,Germany,DE,Rhineland-Palatinate,minor,110636,1,8-Jan-19
 Salzgitter,52.15000000000,10.33330000000,Germany,DE,Lower Saxony,minor,104948,3,22-Mar-19
-Moers,51.45920000000,6.61970000000,Germany,DE,North Rhine-Westphalia,,103725,3,20-Oct-19
+Moers,51.45920000000,6.61970000000,Germany,DE,North Rhine-Westphalia,minor,103725,3,20-Oct-19
 Siegen,50.88330000000,8.01670000000,Germany,DE,North Rhine-Westphalia,minor,102836,4,6-Feb-19
 Hildesheim,52.15000000000,9.95000000000,Germany,DE,Lower Saxony,minor,101990,6,7-Nov-19
 G??tersloh,51.90000000000,8.38330000000,Germany,DE,North Rhine-Westphalia,minor,101158,4,24-Jan-19
